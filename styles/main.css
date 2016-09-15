@@ -101,4 +101,23 @@
 .intro-section {
 	height: 100vh;
 	background: #EEEFE7;
+	text-align: center;
+	padding-top: 10%;
+	font-size: 1.6em;
+	line-height: 1.3;
+	color: #6E787C;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.intro-section p:first-child {
+	padding-bottom: 50%;
+}
+
+.intro-section img {
+	padding-bottom: 5%;
+}
+
+.intro-bottom {
+	font-size: 1em;
 }
